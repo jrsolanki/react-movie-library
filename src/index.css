@@ -1,0 +1,2 @@
+/* Global resets live in App.css; this file is kept so main.jsx's
+   import stays valid. */
